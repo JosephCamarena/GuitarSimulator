@@ -1,21 +1,8 @@
 /******************************************************************************
- *  Name:
- *  NetID:
- *  Precept:
- *
- *  Partner Name:
- *  Partner NetID:
- *  Partner Precept:
- *
- *  Description: supports a total of 37 notes on the chromatic scale
- *               from 110Hz to 880Hz
- *
- *
  * TODO: Record music into a file
  *       Read a file to play notes
  *       Self-play/compose musical pieces
  *       GUI : show strings and frets by drawing on the screen
- *       2 apps: keyboards (1)w/ and (2)w/o numpads
  *
  ******************************************************************************/
 import java.util.HashMap;
