@@ -1,10 +1,3 @@
-/******************************************************************************
- * TODO: Record music into a file - (is there a way to use Scanner to recored keystrokes?  Daniel)
- *       Read a file to play notes
- *       Self-play/compose musical pieces
- *       GUI : show strings and frets by drawing on the screen
- *
- ******************************************************************************/
 import java.util.HashMap;
 
 public class GuitarHero {
